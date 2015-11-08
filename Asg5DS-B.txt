@@ -1,0 +1,12 @@
+0.1
+Cindy       	bread       
+Cindy       	cookies     
+Cindy       	juice       
+Cindy       	milk        
+David       	juice       
+David       	milk        
+Grace       	eggs        
+Grace       	milk        
+Juan        	bread       
+Juan        	coffee      
+Juan        	cookies     

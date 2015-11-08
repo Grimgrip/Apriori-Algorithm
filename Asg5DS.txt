@@ -1,0 +1,17 @@
+0.20
+Charlie    Floss
+Charlie    Wine
+Denise     Butter
+Denise     Floss
+Denise     Jam
+Denise     Wine
+Linus      Beer
+Linus      Milk
+Linus      Wine
+Mabel      Beer
+Mabel      Butter
+Mabel      Floss
+Tiffany    Wine
+Victor     Butter
+Victor     Jam
+Victor     Wine
